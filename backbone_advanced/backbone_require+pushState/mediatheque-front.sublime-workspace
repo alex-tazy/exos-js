@@ -1,0 +1,669 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getTr",
+				"getTrackRepository"
+			],
+			[
+				"tot",
+				"totalVotes"
+			],
+			[
+				"getAlbum",
+				"getAlbumRepository"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"harrys",
+				"harrys-o-metre"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"utf8",
+				"utf8_decode"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"csv",
+				"csv_line"
+			],
+			[
+				"fget",
+				"fgetcsv"
+			],
+			[
+				"post",
+				"postCounter"
+			],
+			[
+				"che",
+				"checkResults"
+			],
+			[
+				"prize",
+				"prizes"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"cou",
+				"countWon"
+			],
+			[
+				"tr",
+				"tracks"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"fil",
+				"file_str"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"VALU",
+				"VALUE_ADDED"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"won",
+				"wonPrize"
+			],
+			[
+				"di",
+				"displayParent"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"Cou",
+				"countBadges"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"fin",
+				"finalSounds"
+			],
+			[
+				"sou",
+				"soundFeature"
+			],
+			[
+				"to",
+				"totalVotes"
+			],
+			[
+				"curr",
+				"currentYear"
+			],
+			[
+				"curre",
+				"currentDay"
+			],
+			[
+				"use",
+				"userToken"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"JSON",
+				"json_decode"
+			],
+			[
+				"data",
+				"dataStr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Library/WebServer/Documents/slimrest/mediatheque-back.sublime-project",
+			"settings":
+			{
+				"buffer_size": 81,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"i p ",
+				"Package Control: Install Package"
+			],
+			[
+				"l p",
+				"Package Control: List Packages"
+			],
+			[
+				"i p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pvanneau/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/pvanneau/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Library/WebServer/Documents/backbone-mediatheque/js/libs/backbone.js",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/WinnerInfos/list.html.twig",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/Default/index.html.twig",
+		"/Users/pvanneau/Desktop/demos/contact_1/index.html",
+		"/private/var/folders/sn/hq1s_1kx1qnbn66pdv9d_lr96p2w75/T/fz3temp-1/index.php",
+		"/Users/pvanneau/Desktop/.htpasswd",
+		"/private/var/folders/sn/hq1s_1kx1qnbn66pdv9d_lr96p2w75/T/fz3temp-1/.htaccess",
+		"/private/var/folders/sn/hq1s_1kx1qnbn66pdv9d_lr96p2w75/T/fz3temp-1/.htaccess 2",
+		"/Users/pvanneau/Desktop/phpinfo.php",
+		"/Users/pvanneau/Desktop/cellectis-sceil/sites/default/settings.php",
+		"/private/var/folders/sn/hq1s_1kx1qnbn66pdv9d_lr96p2w75/T/fz3temp-1/settings.php",
+		"/Library/WebServer/Documents/cellectis-sceil/baazzi",
+		"/private/var/folders/sn/hq1s_1kx1qnbn66pdv9d_lr96p2w75/T/fz3temp-1/application.js",
+		"/Library/WebServer/Documents/cellectis-sceil/.htaccess",
+		"/private/etc/apache2/users/pvanneau.conf",
+		"/private/etc/apache2/httpd.conf",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/public/js/script.js",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/public/js/functions.js",
+		"/Users/pvanneau/Downloads/phonegap-2.7.0/README.md",
+		"/Users/pvanneau/Desktop/Harrys_05072013/Android-iOS-Source/harrysptitdej/android/AndroidManifest.xml",
+		"/Library/WebServer/Documents/doowap/src/App/Controller/WinnerInfosController.php",
+		"/Library/WebServer/Documents/doowap/src/App/Entity/WinnerInfos.php",
+		"/Library/WebServer/Documents/doowap/src/App/Entity/CheckResult.php",
+		"/Library/WebServer/Documents/doowap/src/App/Entity/CheckResultRepository.php",
+		"/Library/WebServer/Documents/doowap/src/App/Entity/WinnerInfosRepository.php",
+		"/Library/WebServer/Documents/doowap/src/App/Controller/AdminController.php",
+		"/Library/WebServer/Documents/doowap/src/App/Barilla/User.php",
+		"/Library/WebServer/Documents/doowap/src/App/Barilla/ClientInterface.php",
+		"/Library/WebServer/Documents/doowap/src/App/Entity/AlbumRepository.php",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/Album/winners.html.twig",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/Email/winner/emailing.html.twig",
+		"/Users/pvanneau/Desktop/video.html",
+		"/Library/WebServer/Documents/doowap/src/App/Controller/DefaultController.php",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/config/album_routing.yml",
+		"/Library/WebServer/Documents/doowap/src/App/Controller/AlbumController.php",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/Album/embedPlayer.html.twig",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/Album/gallery.html.twig",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/Album/profilPlaylist.html.twig",
+		"/Library/WebServer/Documents/doowap/web/bundles/app/css/styles.css",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/Code/close.html.twig",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/Default/footer.html.twig",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/Code/check.html.twig",
+		"/Library/WebServer/Documents/doowap/src/App/Form/WinnerInfosType.php",
+		"/Library/WebServer/Documents/doowap/src/App/Entity/Track.php",
+		"/Library/WebServer/Documents/doowap/src/App/Entity/TrackRepository.php",
+		"/Library/WebServer/Documents/doowap/app/config/config.yml",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/Album/mixingTable.html.twig",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/Default/reglement.html.twig",
+		"/private/var/folders/sn/hq1s_1kx1qnbn66pdv9d_lr96p2w75/T/fz3temp-1/config.js",
+		"/Library/WebServer/Documents/gmfassurementrugby/config.js",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/WinnerInfos/index.html.twig",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/config/routing.yml",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/Album/voteOk.html.twig",
+		"/Library/WebServer/Documents/doowap/app/config/config_dev.yml",
+		"/Library/WebServer/Documents/doowap/app/config/parameters.yml",
+		"/Library/WebServer/Documents/doowap/src/App/Controller/CodeController.php",
+		"/Library/WebServer/Documents/doowap/src/App/Validator/Instrument.php",
+		"/Library/WebServer/Documents/doowap/src/App/Form/UpdateUserType.php",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/User/profil.html.twig",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/Album/show.html.twig",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/User/register.html.twig",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/User/changeForm.html.twig",
+		"/Volumes/@BILL-ECHANGE-TEMP/Pierrick Vanneau/soundsData.json",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/Album/getSounds.json.twig",
+		"/Library/WebServer/Documents/doowap/web/bundles/app/swf/assets/data/soundsData.json",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/Email/winFormConfirmation.html.twig",
+		"/Library/WebServer/Documents/doowap/src/App/Resources/views/Email/parentalConfirm.html.twig",
+		"/Users/pvanneau/Desktop/node-deamon.log",
+		"/Users/pvanneau/Desktop/TODO.txt",
+		"/Library/WebServer/Documents/harrys/apps/frontend/modules/recipe/actions/actions.class.php",
+		"/Library/WebServer/Documents/harrys/apps/frontend/modules/product/actions/actions.class.php",
+		"/Library/WebServer/Documents/harrys/lib/helper/OpenGraphHelper.php",
+		"/Library/WebServer/Documents/harrys/apps/frontend/templates/recipeLayout.php",
+		"/Library/WebServer/Documents/harrys/apps/frontend/templates/breakfastguiderecipeLayout.php",
+		"/Library/WebServer/Documents/harrys/apps/frontend/templates/breakfastguideLayout.php",
+		"/Library/WebServer/Documents/harrys/apps/frontend/templates/pageLayout.php",
+		"/Library/WebServer/Documents/harrys/apps/frontend/templates/layout.php",
+		"/Library/WebServer/Documents/harrys/apps/frontend/modules/breakfastguide/templates/recipeNewSuccess.php",
+		"/Library/WebServer/Documents/harrys/apps/frontend/config/view.yml",
+		"/Library/WebServer/Documents/gmfassurementrugby/public/css/site.css",
+		"/Users/pvanneau/Desktop/filter.js",
+		"/Library/WebServer/Documents/gmfassurementrugby/views/hp.html",
+		"/Library/WebServer/Documents/gmfassurementrugby/oauth_access_token2.txt",
+		"/Library/WebServer/Documents/gmfassurementrugby/oauth_token.txt",
+		"/Library/WebServer/Documents/gmfassurementrugby/app.js",
+		"/Users/pvanneau/Desktop/formationJS.txt",
+		"/Library/WebServer/Documents/harrys/web/css/anythingslider.css",
+		"/Users/pvanneau/Desktop/todo_doowap.txt",
+		"/Library/WebServer/Documents/gmfassurementrugby/external.js",
+		"/Library/WebServer/Documents/gmfassurementrugby/views/actus.html",
+		"/Library/WebServer/Documents/gmfassurementrugby/views/listItem.html",
+		"/Library/WebServer/Documents/gmfassurementrugby/vtools/utility.js",
+		"/Library/WebServer/Documents/gmfassurementrugby/views/pmr.html",
+		"/Library/WebServer/Documents/gmfassurementrugby/views/pmr2.html",
+		"/Library/WebServer/Documents/gmfassurementrugby/views/press.html",
+		"/Library/WebServer/Documents/gmfassurementrugby/views/partenaires.html",
+		"/Library/WebServer/Documents/harrys/apps/frontend/modules/product/templates/_productRecipe.php",
+		"/Library/WebServer/Documents/harrys/apps/frontend/modules/harrysOMeter/templates/couponSuccess.php",
+		"/Library/WebServer/Documents/harrys/apps/frontend/modules/harrysOMeter/templates/signupSuccess.php",
+		"/Library/WebServer/Documents/harrys/apps/frontend/modules/home/templates/indexSuccess.php",
+		"/Library/WebServer/Documents/harrys/apps/frontend/modules/harrysOMeter/actions/actions.class.php",
+		"/Library/WebServer/Documents/harrys/web/css/breakfastguidehome.css",
+		"/Library/WebServer/Documents/harrys/apps/frontend/modules/harrysOMeter/templates/indexSuccess.php",
+		"/Library/WebServer/Documents/harrys/apps/frontend/modules/product/templates/indexSuccess.php",
+		"/Library/WebServer/Documents/harrys/apps/frontend/modules/common/templates/_breadcrumbs.php",
+		"/Library/WebServer/Documents/harrys/web/css/harrys_main.css",
+		"/Library/WebServer/Documents/harrys/lib/migration/doctrine/1364888879_version68.php",
+		"/Library/WebServer/Documents/harrys/lib/migration/doctrine/1364888880_version69.php",
+		"/Library/WebServer/Documents/harrys/apps/frontend/modules/zharrystoire/actions/actions.class.php",
+		"/Library/WebServer/Documents/harrys/config/app.yml",
+		"/Library/WebServer/Documents/esendex_test/curlcall.php",
+		"/Library/WebServer/Documents/esendex_test/content.xml",
+		"/Library/WebServer/Documents/esendex_test/examples/MessageHeaderExample.php",
+		"/Library/WebServer/Documents/esendex_test/curlcall.html",
+		"/Library/WebServer/Documents/esendex_test/dump.txt",
+		"/Library/WebServer/Documents/esendex_test/smsnotification.php",
+		"/Library/WebServer/Documents/esendex_test/examples/DispatchExample.php",
+		"/Library/WebServer/Documents/esendex_test/examples/my_authentication.php",
+		"/Users/pvanneau/Desktop/sendnotifications.html",
+		"/Library/WebServer/Documents/gmfassurementrugby/views/article.html",
+		"/Library/WebServer/Documents/gmfassurementrugby/css_diff.diff",
+		"/Library/WebServer/Documents/gmfassurementrugby/views/404.html",
+		"/Library/WebServer/Documents/gmfassurementrugby/views/legals.html",
+		"/Library/WebServer/Documents/gmfassurementrugby/public/js/commun.js",
+		"/Library/WebServer/Documents/gmfassurementrugby/public/js/home.js",
+		"/Library/WebServer/Documents/gmfassurementrugby/css_diff.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap",
+			"/Library/WebServer/Documents/doowap/src/App/Resources/views",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/harrys",
+			"/Library/WebServer/Documents/harrys/apps/frontend/modules",
+			"/Library/WebServer/Documents/gmfassurementrugby",
+			"/Library/WebServer/Documents/gmfassurementrugby/views",
+			"/Library/WebServer/Documents/harrys/apps/frontend/modules",
+			"/Library/WebServer/Documents/gmfassurementrugby/views",
+			"/Library/WebServer/Documents/gmfassurementrugby/public",
+			"/Library/WebServer/Documents/gmfassurementrugby",
+			"/Library/WebServer/Documents/gmfassurementrugby/public",
+			"/Library/WebServer/Documents/gmfassurementrugby/views",
+			"/Library/WebServer/Documents/gmfnode/node_modules/tumblr",
+			"/Library/WebServer/Documents/harrys/apps",
+			"/Library/WebServer/Documents/harrys",
+			"/Library/WebServer/Documents/harrys/apps",
+			"/Library/WebServer/Documents/gmfnode",
+			"/Library/WebServer/Documents/harrys/apps",
+			"/Library/WebServer/Documents/harrys/apps/frontend",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap/src/App/Resources/public/js",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap/src/App/Resources/public/js",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap/src/App/Resources",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap/src/App/Resources/public/js",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap/src/App/Resources/public",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap/src/App/Controller",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap/src/App/Resources/public/js",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap/src/App/Resources/views/User",
+			"/Library/WebServer/Documents/doowap/src/App/Resources/views",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap/src/App/Resources/public/js",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap/src/App/Resources/views/Album",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap/src/App/Resources/public/js",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap/src/App/Resources/public/js",
+			"/Library/WebServer/Documents/doowap",
+			"/Library/WebServer/Documents/doowap/src",
+			"/Library/WebServer/Documents/doowap"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"open",
+			"folder",
+			"bin",
+			"AuthUserFile",
+			"files",
+			"rewrite",
+			"RewriteEngine",
+			"vote",
+			"ajaxJqPopin",
+			"check",
+			"winnerInfos",
+			"appearance",
+			"theme",
+			"galerie_item",
+			"playPause",
+			"galerie_item_small_play",
+			"countActive",
+			"calculatePage",
+			"page",
+			"{",
+			">\n",
+			"header",
+			"<p>&nbsp;</p>",
+			"bundles",
+			".swf",
+			"<p>&nbsp;</p>",
+			"nb_albums_gallery_per_page2",
+			"calculatePage",
+			"galleryList",
+			"galle",
+			"evercookie",
+			"vote",
+			"ton instrument",
+			"votre instrument",
+			"ton instrument",
+			"préciser ton instrument",
+			"Tu dois préciser",
+			"Tu dois préciser ton instrument",
+			"Veuillez préciser votre instrument",
+			".swf",
+			"gallery",
+			"totalVotes",
+			"findAllByNbVotes",
+			"intl",
+			"arrow_blue.png",
+			"menu",
+			"OpenGraphHelper::setMetas",
+			"OpenGraphHelper",
+			"trouver une recette",
+			"trouvez une recette",
+			"forceupdate",
+			"/favicon.ico",
+			"pmr",
+			"img",
+			"vous aimerez aussi",
+			"header",
+			"fifth",
+			"fif",
+			"fourth",
+			"print_url",
+			"qui sommes",
+			"menu",
+			"actualités",
+			"HelveticaNeueW01-UltLt",
+			"À lire également",
+			"HelveticaNeueW01-Thin",
+			"35",
+			"HelveticaNeueW01-67MdCn 692710",
+			"partners ",
+			".socialNet li a ",
+			"icons-icon_fb",
+			"icons-icon_fb_mini",
+			"gmfBtn",
+			"-webkit-transition",
+			".icons-zoom",
+			"icons-zoom",
+			"-webkit-transition: opacity",
+			"progid:DXImageTransform.Microsoft.Alpha",
+			":hover",
+			"pushActu",
+			"theOne",
+			"href=\"#\"",
+			"href=\"/\"",
+			"#",
+			"Actualités / Archives",
+			"http://www.youtube.com/user/assurancesGMF",
+			"a lire également",
+			"HelveticaNeueW01-67MdCn 692710",
+			"\"HelveticaNeueW01-67MdCn 692710\"",
+			"post",
+			"<%",
+			"article",
+			"443",
+			"https",
+			"443",
+			"harrys@pixibox.com",
+			"harrys@pixibox.fr",
+			"harrys@pixibox.com",
+			"127.0.0.1",
+			"ACTUPARTENAIRE",
+			"server",
+			"all",
+			"style",
+			"menu",
+			"icons-zoom",
+			"actualiteGmf",
+			"pushActu",
+			":hover",
+			"p",
+			"actualiteGmf",
+			"/*",
+			"  '",
+			"actualitePartenaires",
+			"actualitegmf",
+			"graph",
+			"#background",
+			"header",
+			"projects-list",
+			"album",
+			"wine",
+			"app_coupon_print_url",
+			"http://195.200.165.148/",
+			"$this->_client",
+			"coupon_wsdl_url",
+			"highco",
+			"update",
+			"profil",
+			"setParentE"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"HelveticaNeueW01-UltLt",
+			"HelveticaNeueW02-57Cn",
+			"album",
+			"\"t_length\":2,\"t_in\":2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Library/WebServer/Documents/slimrest/mediatheque-back.sublime-project",
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 373.0,
+	"status_bar_visible": true
+}

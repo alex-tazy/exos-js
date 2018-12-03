@@ -1,0 +1,245 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 Courier;\f2\fmodern\fcharset0 Courier-Bold;
+}
+{\colortbl;\red255\green255\blue255;\red81\green83\blue84;\red141\green144\blue143;\red251\green252\blue251;
+\red31\green34\blue35;\red62\green65\blue66;\red164\green166\blue167;\red240\green242\blue241;\red0\green0\blue113;
+\red223\green0\blue47;\red0\green117\blue180;\red8\green149\blue15;\red0\green145\blue144;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww21200\viewh21520\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0 https://gist.github.com/pvanneau/5598118\
+\pard\pardeftab720\ql\qnatural
+
+\fs28 \cf2 Routing tools for webapp (like Backbone)
+\fs24 \cf3 \cb4 \
+\
+\pard\pardeftab720\ql\qnatural
+
+\b\fs26 \cf5 .htaccess\
+\pard\pardeftab720\ql\qnatural
+
+\fs24 \cf3 ApacheConf\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ql\qnatural
+\ls1\ilvl0
+\b0 \cf6 {\listtext	\'95	}\
+{\listtext	\'95	}\
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat1 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth540\clftsWidth3 \clminw540 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf8 \clpadt240 \clpadl120 \clpadb240 \clpadr120 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth14880\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt240 \clpadl240 \clpadb240 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+
+\f1 \cf7 \cb1 1\
+2\
+3\
+4\
+5\
+6\
+7\cell 
+\pard\intbl\itap1\pardeftab720\ql\qnatural
+\cf9 <ifModule\cf0  \cf10 mod_rewrite.c\cf9 >\cf0 \
+    \cf11 RewriteEngine\cf0  
+\f2\b On
+\f1\b0 \
+    \cf11 RewriteCond\cf0  %\{REQUEST_FILENAME\} !-f\
+    \cf11 RewriteCond\cf0  %\{REQUEST_FILENAME\} !-d\
+    \cf11 RewriteCond\cf0  %\{REQUEST_URI\} !index\
+    \cf11 RewriteRule\cf0  (.*) index.html [L]\
+\cf9 </ifModule>\cf0 \cell \lastrow\row
+\pard\pardeftab720\ql\qnatural
+
+\f0 \cf3 \cb4 \
+\pard\pardeftab720\ql\qnatural
+
+\b\fs26 \cf5 helpers.js\
+\pard\pardeftab720\ql\qnatural
+
+\fs24 \cf3 JavaScript\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ql\qnatural
+\ls2\ilvl0
+\b0 \cf6 {\listtext	\'95	}\
+{\listtext	\'95	}\
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat1 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth540\clftsWidth3 \clminw540 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf8 \clpadt240 \clpadl120 \clpadb240 \clpadr120 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth14880\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt240 \clpadl240 \clpadb240 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+
+\f1 \cf7 \cb1 1\
+2\
+3\
+4\
+5\
+6\
+7\
+8\
+9\
+10\
+11\
+12\
+13\
+14\
+15\
+16\
+17\
+18\
+19\
+20\
+21\
+22\
+23\
+24\
+25\
+26\
+27\
+28\
+29\
+30\
+31\
+32\
+33\cell 
+\pard\intbl\itap1\pardeftab720\ql\qnatural
+\cf0 define([\
+  \cf10 'jquery'\cf0 ,\
+], 
+\f2\b function
+\f1\b0 ($)\
+\{\
+  
+\f2\b var
+\f1\b0  Helpers 
+\f2\b =
+\f1\b0  \{\};\
+\'a0\
+  Helpers.preventClick 
+\f2\b =
+\f1\b0  
+\f2\b function
+\f1\b0 (appRouter)\
+  \{\
+    $(\cf11 document\cf0 ).on(\cf10 "click"\cf0 , \cf10 "a[href^='/']"\cf0 , 
+\f2\b function
+\f1\b0 (event) \
+    \{\
+      
+\f2\b var
+\f1\b0  href, passThrough, url, rel;\
+      href 
+\f2\b =
+\f1\b0  $(event.currentTarget).attr(\cf10 'href'\cf0 );\
+      rel 
+\f2\b =
+\f1\b0  $(event.currentTarget).attr(\cf10 'rel'\cf0 );\
+      
+\f2\b if
+\f1\b0  (\
+        (rel 
+\f2\b !==
+\f1\b0  \cf10 "external"\cf0 ) 
+\f2\b &&
+\f1\b0 \
+        
+\f2\b !
+\f1\b0 event.altKey 
+\f2\b &&
+\f1\b0 \
+        
+\f2\b !
+\f1\b0 event.ctrlKey 
+\f2\b &&
+\f1\b0  \
+        
+\f2\b !
+\f1\b0 event.metaKey 
+\f2\b &&
+\f1\b0 \
+        
+\f2\b !
+\f1\b0 event.shiftKey) \
+      \{\
+        event.preventDefault();\
+        url 
+\f2\b =
+\f1\b0  href.replace(\cf12 /^\\//\cf0 , \cf10 ''\cf0 ).replace(\cf10 '\\#\\!\\/'\cf0 , \cf10 ''\cf0 );\
+        appRouter.navigate(url, \{\
+          trigger
+\f2\b :
+\f1\b0  
+\f2\b true
+\f1\b0 \
+        \});\
+        
+\f2\b return
+\f1\b0  
+\f2\b false
+\f1\b0 ;\
+      \}\
+    \});\
+  \}\
+\'a0\
+  
+\f2\b return
+\f1\b0  Helpers;\
+\'a0\
+\});\cell \lastrow\row
+\pard\pardeftab720\ql\qnatural
+
+\f0 \cf3 \cb4 \
+\pard\pardeftab720\ql\qnatural
+
+\b\fs26 \cf5 nodeApp.js\
+\pard\pardeftab720\ql\qnatural
+
+\fs24 \cf3 JavaScript\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ql\qnatural
+\ls3\ilvl0
+\b0 \cf6 {\listtext	\'95	}\
+{\listtext	\'95	}\
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat1 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth540\clftsWidth3 \clminw540 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf8 \clpadt240 \clpadl120 \clpadb240 \clpadr120 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth14880\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt240 \clpadl240 \clpadb240 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+
+\f1 \cf7 \cb1 1\
+2\
+3\
+4\
+5\
+6\
+7\
+8\
+9\
+10\cell 
+\pard\intbl\itap1\pardeftab720\ql\qnatural
+
+\f2\b \cf0 var
+\f1\b0  express 
+\f2\b =
+\f1\b0  require(\cf10 'express'\cf0 ),\
+    app 
+\f2\b =
+\f1\b0  express();\
+ \
+app.use(express.
+\f2\b static
+\f1\b0 (__dirname 
+\f2\b +
+\f1\b0  \cf10 '/'\cf0 ));\
+ \
+app.get(\cf12 /^(.*)$/\cf0 , 
+\f2\b function
+\f1\b0 (req, res) \{\
+    res.sendfile(__dirname 
+\f2\b +
+\f1\b0  \cf10 '/index.html'\cf0 );\
+\});\
+ \
+app.listen(process.env.PORT 
+\f2\b ||
+\f1\b0  \cf13 8080\cf0 );\cell \lastrow\row
+}

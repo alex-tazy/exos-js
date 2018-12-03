@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Template page</title>
+    <script src="libs/json2.js"></script>
+    <script src="libs/jquery-1.8.2.js"></script>
+    <script src="libs/underscore.js"></script>
+    <script src="libs/backbone.js"></script>
+
+</head>
+<div id="search_container"></div>
+<body>
+    <script>
+        (function() {
+            
+          var UserModel = Backbone.Model.extend
+            ( {
+                url : function()
+                {
+                  return 'http://slimrest.net/user';
+                },
+                //urlRoot : '/user',
+                defaults: {
+                  name : '',
+                  email: ''
+                }
+            } );
+
+
+            var user = new UserModel();
+            // No id
+            var userDetails =
+            {
+              name : 'Eric',
+              email: 'eric.priou@mediabox.fr'
+            };
+            // Puisqu'il n'y a pas d'id défini,
+            // une requête POST avec les paramètres
+            // {name:'Eric', email: 'eric.priou@mediabox.fr'}
+            // Le serveur doit avoir la bonne donnée et retourner un id
+            $.support.cors = true;
+            user.save
+            (
+              userDetails,
+              {
+                success: function ( user )
+                {
+                  console.log( user.toJSON() );
+                }
+            } );
+            
+      })();  
+    </script>
+</body>
+</html>

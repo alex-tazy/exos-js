@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Template page</title>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.1.2/backbone-min.js"></script>
+
+    <!-- Templates -->
+
+</head>
+<body>
+<a href="#/posts/12" accesskey="">12ème post</a>
+
+<script>
+    (function ()
+    {
+        var AppRouter = Backbone.Router.extend
+        ({
+            routes: {
+                "posts/:id": "getPost",
+                "": "defaultRoute"
+            }
+        });
+
+
+        var app_router = new AppRouter();
+        app_router.on
+        (
+            'route:getPost', function (id)
+            {
+
+                console.log("ID " + id);
+            }
+        );
+
+        app_router.on
+        (
+            'route:defaultRoute', function (actions)
+            {
+                console.log(actions);
+            }
+        );
+
+        Backbone.history.start();
+
+    })();
+</script>
+</body>
+</html>
